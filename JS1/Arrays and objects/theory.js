@@ -8,28 +8,23 @@ const names = ['mark', 'tobey', 'garry']
 // const reversed = names.toReversed()
 // console.log(reversed)
 // console.log(names, name)
-
 // const letters = ['u', 'g', 'c', 'd']
 // // console.log(letters.sort(function(a, d){
 // //     return d.charCodeAt(0) - a.charCodeAt(0)
 // // }))
 // console.log(letters.toSorted())
 // console.log(letters)
-
 // console.log(names.splice(2, 1))
 // console.log(names.toSpliced(2, 1))
 // console.log(names)
-
 // const greatWoman = 'garry'
 // const index = names.indexOf(greatWoman)
 // //console.log(index)
 // const newName = names.with(index, 'garry ozborn')
 // console.log(names)
 // console.log(newName)
-
 // names[index] = 'garry ozborn'
 // console.log(names[index]) 
-
 // const cap =  names.map(function
 // (name, index){
 //     // const newNames = name + '!'
@@ -51,7 +46,7 @@ const people = [
     {name: 'garry', budget: 12000},
 ]
 
-// console.log(people.indexOf())
+/*// console.log(people.indexOf())
 
 // let find
 // for(let person of people){
@@ -96,7 +91,7 @@ const string = 'Hi'
 
 const reversed = string.split('').toReversed()//.join('45').split('').filter(c => c !== 45).join('')
 
-console.log(reversed)
+console.log(reversed)*/
 
 
 
